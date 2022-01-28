@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lelikone777
 - 👀 I’m interested in creating websites
-- 🌱 I’m currently learning JavaScript & React
+- 🌱 I’m currently learning PHP & JavaScript
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 You can reach me by telegram @lelikon.
 
