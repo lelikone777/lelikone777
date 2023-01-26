@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lelikone777
+- 👋 Hi, I’m Aleksei Kalinin
 - 👀 I’m interested in creating websites
-- 🌱 I’m currently learning PHP & JavaScript
+- 🌱 I’m currently learning PHP, Yii2, JavaScript, ReactJs, Typescript, NodeJs. 
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 You can reach me by telegram @lelikon.
 
