@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating websites
 - 🌱 I’m currently learning PHP, Yii2, JavaScript, ReactJs, Typescript, NodeJs. 
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 You can reach me by telegram <a href="https://t.me/Ricky_Spanishsh">telegram</a> 
+- 📫 You can reach me by telegram <a href="https://t.me/rspav">telegram</a> 
 - 👀 You can see my profile <a href='https://www.linkedin.com/in/aleks-kalinin/'>linkedin</a>
 
 <!---
