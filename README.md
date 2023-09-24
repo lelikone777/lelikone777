@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aleksei Kalinin
-- 👀 I’m interested in creating websites
+- 👀 I’m interested in creating web sites, applications and other solutions. 
 - 🌱 I’m currently learning JavaScript, ReactJs, Typescript, NodeJs. 
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 You can reach me by telegram <a href="https://t.me/rspav">telegram</a> 
