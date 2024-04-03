@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating web sites, applications and other solutions. 
 - 🌱 I’m currently learning JavaScript, Typescript, React, Next.js, Node.js. 
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 You can reach me by telegram <a href="https://t.me/rspav">telegram</a> 
+- 📫 You can reach me by <a href="https://t.me/rspav">telegram</a> 
 - 👀 You can see my profile <a href='https://www.linkedin.com/in/aleks-kalinin/'>linkedin</a>
 - ✨ You can always check [My Server With Projects](https://alekseykalinin.ru/projects/)!
 
